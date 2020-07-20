@@ -1,0 +1,11 @@
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General.UnitTests\bin\Debug\Part1.General.UnitTests.dll
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General.UnitTests\bin\Debug\Part1.General.UnitTests.pdb
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General.UnitTests\obj\Debug\Part1.General.UnitTests.csprojAssemblyReference.cache
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General.UnitTests\obj\Debug\Part1.General.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General.UnitTests\obj\Debug\Part1.General.UnitTests.dll
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General.UnitTests\obj\Debug\Part1.General.UnitTests.pdb
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General.UnitTests\bin\Debug\Part1.General.dll
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General.UnitTests\bin\Debug\Part1.General.pdb
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General.UnitTests\obj\Debug\Part1.General.UnitTests.csproj.CopyComplete
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General.UnitTests\bin\Debug\Newtonsoft.Json.xml

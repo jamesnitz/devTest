@@ -1,0 +1,52 @@
+﻿.color {
+    width: 150px;
+    height: 150px;
+}
+
+    .color:hover {
+        border: 2px solid chartreuse;
+        cursor: pointer;
+    }
+
+.colorList {
+    display: flex;
+    justify-content: center;
+}
+
+.blue {
+    margin: 2px;
+    color: white;
+    background-color: rgb(0, 120, 215);
+}
+
+.orange {
+    margin: 2px;
+    color: white;
+    background-color: rgb(216, 59, 1);
+}
+
+.red {
+    margin: 2px;
+    color: white;
+    background-color: rgb(232, 17, 35);
+}
+
+.purple {
+    margin: 2px;
+    color: white;
+    background-color: rgb(92, 45, 145);
+}
+
+.green {
+    margin: 2px;
+    color: white;
+    background-color: rgb(16, 134, 16);
+}
+
+.colorText {
+    line-height: 3em;
+}
+
+#selectedColor {
+    margin: auto;
+}

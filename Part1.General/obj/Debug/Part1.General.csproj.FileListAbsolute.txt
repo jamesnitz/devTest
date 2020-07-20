@@ -1,0 +1,9 @@
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General\bin\Debug\Part1.General.dll
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General\bin\Debug\Part1.General.pdb
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General\obj\Debug\Part1.General.csprojAssemblyReference.cache
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General\obj\Debug\Part1.General.csproj.CoreCompileInputs.cache
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General\obj\Debug\Part1.General.dll
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General\obj\Debug\Part1.General.pdb
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General\bin\Debug\Newtonsoft.Json.dll
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General\bin\Debug\Newtonsoft.Json.xml
+C:\Users\james\workspace\saltwork\DeveloperTest\Part1.General\obj\Debug\Part1.General.csproj.CopyComplete
